@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+
+.btn {
+    background-color: yellow;
+    border: solid 5px yellow;
+    padding: 20px;
+    margin-right: 100px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    align-items: center;
+    margin-right: 150px;
+}
+
+h3 {
+    color: white;
+}
+
+nav a {
+    color: white;
+}
+
+nav {
+    background-color: rgba(34, 34, 34, 1);
+    height: 44px;
+    display: flex;
+    justify-content: center;
+
+    align-items: center;
+}
+
+.header-tepa {
+    display: flex;
+    background-color: black;
+    height: 82px;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.img-1 {
+    margin-right: auto;
+    margin-left: 100px;
+
+}
+
+.img-2 {
+    width: 30px;
+    height: 30px;
+
+
+}
+
+.img-3 {
+    width: 1520px;
+}
+
+.img-4 {
+    margin-right: auto;
+    margin-left: 100px;
+}
+
+.img-5 {
+    margin-right: 100px;
+}
+
+footer {
+    background-color: black;
+}
+
+.div {
+    background: url(./image\ 5\ \(1\).png);
+    width: 100%;
+    height: 100vh;
+}
+
+.footer-past {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 101px;
+    gap: 20px;
+}
+
+.btm {
+    background-color: yellow;
+    border: solid 5px yellow;
+    width: 235px;
+    height: 73px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 400px;
+}
+
+.CONSOLE {
+    background-color: black;
+    border: solid 5px black;
+    color: white;
+    width: 235px;
+    height: 73px;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 400px;
+}
+
+.ota {
+    display: flex;
+    justify-content: center;
+}
+.ota-2{
+ background-color: rgba(241, 169, 0, 0.33);
+ width: 766px;
+ height: 202px;
+margin: auto;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+display: flex;
+justify-content: center;
+align-items: center;
+}
